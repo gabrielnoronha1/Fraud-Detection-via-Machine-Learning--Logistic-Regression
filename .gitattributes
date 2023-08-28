@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+D:/fraudDeteciton/Fraud-Detection-via-Machine-Learning--Logistic-Regression/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+creditcard.csv filter=lfs diff=lfs merge=lfs -text
